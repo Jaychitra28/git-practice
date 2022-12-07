@@ -4,3 +4,5 @@ def aaa(self):
     aaaa = ssss
     bbbb = ssss
     dddd = ssss
+    admin1 = admin1
+    admin2 = admin2 
