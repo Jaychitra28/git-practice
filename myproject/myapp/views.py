@@ -10,3 +10,4 @@ def aaa(self):
     admin4 =admin4
     admin4 =admin4
     admin6 =admin6
+    admin7 =admin7
