@@ -6,3 +6,4 @@ def aaa(self):
     dddd = ssss
     admin1 = admin1
     admin2 = admin2 
+    admin3 = admin3
