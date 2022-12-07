@@ -8,4 +8,5 @@ def aaa(self):
     admin2 = admin2 
     admin3 = admin3
     admin4 =admin4
-    admin5 =admin5
+    admin4 =admin4
+    admin6 =admin6
